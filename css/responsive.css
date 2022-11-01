@@ -1,0 +1,924 @@
+
+/* For Small Device Start */
+/* For Small Device End */
+
+/* For Medium Device Start */
+@media (min-width: 768px) and (max-width: 991px){
+    /* Navbar Css Responsive Start */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #navbarSupportedContent {
+        background: #7968ef;
+        padding: 50px 30px;
+    }
+
+    .hero_text h3 {
+        font-size: 42px;
+    }
+
+    .rocket{
+        display: none;
+    }
+
+    .hero_text p {
+        padding: 0 10px;
+    }
+
+    .hero_text p {
+        font-size: 20px;
+    }
+
+    #banner {
+        padding-bottom: 322px;
+        padding-top: 100px;
+    }
+
+    .brand {
+        bottom: -40px;
+    }
+    /* Navbar Css Responsive End */
+
+    /* Service Css Responsive Start */
+    #service{
+        padding-top: 100px;
+        padding-bottom: 0;
+    }
+
+    .service_item {
+        margin-top: 50px;
+    }
+
+    .service_heading h3 {
+        font-size: 42px;
+        padding-bottom: 0px;
+    }
+
+    .service_left_text p {
+        font-size: 20px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .left_img img {
+        margin-bottom: 40px;
+    }
+
+    .service_thumbbail {
+        text-align: center;
+    }
+
+    .service_thumbnail_text h3 {
+        font-size: 24px;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .service_thumbnail_text p {
+        font-size: 20px;
+        text-align: center;
+    }
+    /* Service Css Responsive End */
+
+    /* Trafic Css Responsive Start */
+    #trafic {
+        padding-top: 38px;
+        padding-bottom: 50px;
+    }
+
+    .trafic_heading h4 {
+        text-align: center;
+    }
+
+    .trafic_heading h3 {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .trafic_heading p {
+        font-size: 18px;
+        padding: 0px 10px;
+        text-align: center;
+    }
+
+    .trafic_right img {
+        margin-top: 30px;
+    }
+    /* Trafic Css Responsive End */
+    
+    /* Process Css Responsive Start */
+    #process {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .process_heading h4 {
+        padding-bottom: 10px;
+    }
+
+    .process_heading h3 {
+        font-size: 42px;
+        padding-bottom: 30px;
+    }
+
+    .process_main_box p {
+        font-size: 18px;
+    }
+
+    .process_main_box::after {
+        border-style: none;
+    }
+
+    .real_time_left img{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .real_time_right h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .real_time_right p {
+        padding-right: 0;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .real_time_right p {
+        font-size: 20px;
+    }
+    /* Process Css Responsive End */
+
+    /* Work Css Responsive Start */
+    #works {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .works_heading h4 {
+        text-align: center;
+    }
+
+    .works_heading_big h3 {
+        font-size: 42px;
+        text-align: center;
+    }
+
+    .case_study_text h3 {
+        text-align: center;
+        font-size: 30px;
+    }
+
+    .case_study_text p {
+        text-align: center;
+        padding-bottom: 30px;
+        font-size: 20px;
+    }
+    /* Work Css Responsive End */
+    
+    /* Pricing Css Responsive Start */
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .pricing_heading h3 {
+        font-size: 42px;
+        padding-bottom: 30px;
+    }
+
+    .price_head h3 {
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .price_head h4 {
+        font-size: 22px;
+    }
+
+    .price_head h5 {
+        font-size: 18px;
+    }
+
+    .price_details span {
+        font-size: 19px;
+    }
+
+    .price_details2 p {
+        font-size: 16px;
+    }
+
+    .main_price {
+        padding-bottom: 30px;
+    }
+
+    .main_price:nth-child(1) .price::after {
+        width: 340px;
+    }
+
+    .main_price:nth-child(2) .price::after {
+        width: 340px;
+    }
+
+    .main_price:nth-child(3) .price::after {
+        width: 340px;
+    }
+
+    .main_price:nth-child(4) .price::after {
+        width: 340px;
+    }
+    /* Pricing Css Responsive End */
+
+    /* SEO Css Responsive Start */
+    #seo {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .seo_text_part h3 {
+        font-size: 34px;
+    }
+
+    .seo_text_part p {
+        font-size: 22px;
+    }
+
+    .seo_background {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        border-radius: 30px;
+    }
+    /* SEO Css Responsive End */
+    
+    /* Footer Css Responsive Start */
+    #footer {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .footer_logo {
+        margin-bottom: 30px;
+    }
+
+    .footer_main_one_text p {
+        padding-right: 0px;
+        font-size: 16px;
+        padding-bottom: 30px;
+    }
+
+    .footer_main_head h3 {
+        padding-bottom: 30px;
+    }
+
+    .footer_main_two_content a {
+        font-size: 15px;
+    }
+
+    .footerend_txt h3 {
+        font-size: 20px;
+        text-align: center;
+        padding-bottom: 22px;
+    }
+
+    .footerend_txt a {
+        font-size: 16px;
+    }
+
+    #footerend {
+        padding-top: 20px;
+    }
+    
+    /* Footer Css Responsive End */
+}
+/* For Medium Device End */
+
+/* For Small Device Start */
+@media (min-width: 576px) and (max-width: 767px){
+
+     /* Navbar Css Responsive Start */
+     .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #navbarSupportedContent {
+        background: #7968ef;
+        padding: 50px 30px;
+    }
+
+    .hero_text h3 {
+        font-size: 30px;
+    }
+
+    .rocket{
+        display: none;
+    }
+
+    .hero_text p {
+        padding: 0 10px;
+    }
+
+    .hero_text p {
+        font-size: 18px;
+    }
+
+    .website_link_input {
+        max-width: 100%;
+        position: static;
+    }
+
+    .website_link_input input {
+        padding: 12px 20px;
+    }
+
+    .website_link_input button {
+        position: static;
+        margin-top: 20px;
+        border-radius: 20px;
+        padding: 15px 20px;
+    }
+
+    #banner {
+        padding-bottom: 266px;
+        padding-top: 100px;
+    }
+
+    .brand {
+        bottom: -40px;
+    }
+    /* Navbar Css Responsive End */
+
+    /* Service Css Responsive Start */
+    #service{
+        padding-top: 100px;
+        padding-bottom: 0;
+    }
+
+    .service_item {
+        margin-top: 50px;
+    }
+
+    .service_heading h3 {
+        font-size: 32px;
+        padding-bottom: 0px;
+    }
+
+    .service_left_text p {
+        font-size: 18px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .left_img img {
+        margin-bottom: 30px;
+    }
+
+    .service_thumbbail {
+        text-align: center;
+    }
+
+    .service_thumbnail_text h3 {
+        font-size: 22px;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .service_thumbnail_text p {
+        font-size: 15px;
+        text-align: center;
+    }
+    /* Service Css Responsive End */
+
+    /* Trafic Css Responsive Start */
+    #trafic {
+        padding-top: 38px;
+        padding-bottom: 50px;
+    }
+
+    .trafic_heading h4 {
+        text-align: center;
+    }
+
+    .trafic_heading h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .trafic_heading p {
+        font-size: 17px;
+        padding: 0px 10px;
+        text-align: center;
+    }
+
+    .trafic_right img {
+        margin-top: 30px;
+    }
+    /* Trafic Css Responsive End */
+    
+    /* Process Css Responsive Start */
+    #process {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .process_heading h4 {
+        padding-bottom: 10px;
+    }
+
+    .process_heading h3 {
+        font-size: 32px;
+        padding-bottom: 30px;
+    }
+
+    .process_main_box p {
+        font-size: 18px;
+    }
+
+    .process_main_box::after {
+        border-style: none;
+    }
+
+    .real_time_left img{
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .real_time_right h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .real_time_right p {
+        padding-right: 0;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    /* Process Css Responsive End */
+
+    /* Work Css Responsive Start */
+    #works {
+        padding-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    .works_heading h4 {
+        text-align: center;
+    }
+
+    .works_heading_big h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .case_study_text h3 {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    .case_study_text p {
+        text-align: center;
+        padding-bottom: 30px;
+        font-size: 16px;
+    }
+    /* Work Css Responsive End */
+    
+    /* Pricing Css Responsive Start */
+    #pricing {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .pricing_heading h3 {
+        font-size: 32px;
+        padding-bottom: 30px;
+    }
+
+    .price_head h3 {
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .price_head h4 {
+        font-size: 22px;
+    }
+
+    .price_head h5 {
+        font-size: 18px;
+    }
+
+    .price_details span {
+        font-size: 19px;
+    }
+
+    .price_details2 p {
+        font-size: 16px;
+    }
+
+    .main_price {
+        padding-bottom: 30px;
+    }
+
+    .main_price:nth-child(1) .price::after {
+        width: 250px;
+    }
+
+    .main_price:nth-child(2) .price::after {
+        width: 250px;
+    }
+
+    .main_price:nth-child(3) .price::after {
+        width: 250px;
+    }
+
+    .main_price:nth-child(4) .price::after {
+        width: 250px;
+    }
+    /* Pricing Css Responsive End */
+
+    /* SEO Css Responsive Start */
+    #seo {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .seo_text_part h3 {
+        font-size: 32px;
+    }
+
+    .seo_text_part p {
+        padding: 0px 25px;
+    }
+
+    .seo_input_type {
+        width: 100%;
+        position: static;
+    }
+
+    .seo_input_type input {
+        width: 94%;
+        padding: 12px 20px;
+        margin: 0px 10px;
+    }
+
+    .seo_input_type button {
+        position: static;
+        padding: 15px 20px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        margin-top: 15px;
+    }
+
+    .seo_background {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        border-radius: 30px;
+    }
+    /* SEO Css Responsive End */
+    
+    /* Footer Css Responsive Start */
+    #footer {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .footer_logo {
+        margin-bottom: 30px;
+    }
+
+    .footer_main_one_text p {
+        padding-right: 0px;
+        font-size: 16px;
+    }
+
+    .footer_main_head h3 {
+        padding-bottom: 30px;
+    }
+
+    .footer_main_two_content a {
+        font-size: 15px;
+    }
+
+    .footerend_txt h3 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .footerend_txt a {
+        font-size: 16px;
+    }
+
+    #footerend {
+        padding-top: 20px;
+    }
+    
+    /* Footer Css Responsive End */
+
+}
+/* For Small Device End */
+
+/* For Extra Small Device Start */
+@media (max-width: 575.99px){
+    
+    /* Navbar Css Responsive Start */
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #navbarSupportedContent {
+        background: #7968ef;
+        padding: 30px 15px;
+    }
+
+    .hero_text h3 {
+        font-size: 24px;
+    }
+
+    .rocket{
+        display: none;
+    }
+
+    .hero_text p {
+        padding: 0 10px;
+    }
+
+    .hero_text p {
+        font-size: 16px;
+    }
+
+    .website_link_input {
+        max-width: 100%;
+        position: static;
+    }
+
+    .website_link_input input {
+        padding: 12px 20px;
+    }
+
+    .website_link_input button {
+        position: static;
+        margin-top: 20px;
+        border-radius: 20px;
+        padding: 15px 20px;
+    }
+
+    #banner {
+        padding-bottom: 238px;
+        padding-top: 100px;
+    }
+
+    .brand {
+        bottom: -35px;
+    }
+    /* Navbar Css Responsive End */
+    
+    /* Service Css Responsive Start */
+    #service{
+        padding-top: 80px;
+        padding-bottom: 0;
+    }
+
+    .service_item {
+        margin-top: 50px;
+    }
+
+    .service_heading h3 {
+        font-size: 24px;
+        padding-bottom: 0px;
+    }
+
+    .service_left_text p {
+        font-size: 16px;
+        padding-top: 20px;
+        padding-bottom: 40px;
+        text-align: center;
+    }
+
+    .service_thumbbail {
+        text-align: center;
+    }
+
+    .service_thumbnail_text h3 {
+        font-size: 22px;
+        padding-bottom: 10px;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    .service_thumbnail_text p {
+        font-size: 16px;
+        text-align: center;
+    }
+    /* Service Css Responsive End */
+
+    /* Trafic Css Responsive Start */
+    #trafic {
+        padding-top: 80px;
+        padding-bottom: 70px;
+    }
+
+    .trafic_heading h4 {
+        text-align: center;
+    }
+
+    .trafic_heading h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .trafic_heading p {
+        font-size: 16px;
+        padding: 0px 10px;
+        text-align: center;
+    }
+
+    .trafic_right img {
+        margin-top: 30px;
+    }
+    /* Trafic Css Responsive End */
+    
+    /* Process Css Responsive Start */
+    #process {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .process_heading h4 {
+        padding-bottom: 10px;
+    }
+
+    .process_heading h3 {
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+
+    .process_main_box::after {
+        border-style: none;
+    }
+
+    .real_time_left img{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+
+    .real_time_right h3 {
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .real_time_right p {
+        padding-right: 0;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    /* Process Css Responsive End */
+
+    /* Work Css Responsive Start */
+    #works {
+        padding-top: 70px;
+        padding-bottom: 40px;
+    }
+
+    .works_heading h4 {
+        text-align: center;
+    }
+
+    .works_heading_big h3 {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .case_study_text h3 {
+        text-align: center;
+    }
+
+    .case_study_text p {
+        text-align: center;
+        padding-bottom: 30px;
+    }
+    /* Work Css Responsive End */
+    
+    /* Pricing Css Responsive Start */
+    #pricing {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .pricing_heading h3 {
+        font-size: 24px;
+        padding-bottom: 30px;
+    }
+
+    .price_head h3 {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .main_price {
+        padding-bottom: 30px;
+    }
+    /* Pricing Css Responsive End */
+
+    /* SEO Css Responsive Start */
+    #seo {
+        padding-top: 70px;
+        padding-bottom: 70px;
+    }
+
+    .seo_text_part h3 {
+        font-size: 24px;
+    }
+
+    .seo_text_part p {
+        padding: 0px 25px;
+    }
+
+    .seo_input_type {
+        width: 100%;
+        position: static;
+    }
+
+    .seo_input_type input {
+        width: 94%;
+        padding: 12px 20px;
+        margin: 0px 10px;
+    }
+
+    .seo_input_type button {
+        position: static;
+        padding: 15px 20px;
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+        margin-top: 15px;
+    }
+
+    .seo_background {
+        padding-top: 70px;
+        padding-bottom: 70px;
+        border-radius: 30px;
+    }
+    /* SEO Css Responsive End */
+    
+    /* Footer Css Responsive Start */
+    #footer {
+        padding-top: 70px;
+        padding-bottom: 0;
+    }
+
+    .footer_logo {
+        margin-bottom: 30px;
+    }
+
+    .footer_main_one_text p {
+        padding-right: 0px;
+        font-size: 16px;
+    }
+
+    .footer_main_head h3 {
+        padding-bottom: 30px;
+    }
+
+    .footer_main_two_content a {
+        font-size: 15px;
+    }
+
+    .footerend_txt h3 {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .footerend_txt a {
+        font-size: 16px;
+    }
+    /* Footer Css Responsive End */
+}
+/* For Extra Small Device End */
+
+@media (min-width: 320px) and (max-width: 575px){
+    
+    .main_price:nth-child(1) .price::after {
+        width: 95%;
+    }
+    
+    .main_price:nth-child(2) .price:after {
+        width: 95%;
+    }
+    
+    .main_price:nth-child(3) .price:after {
+        width: 95%;
+    }
+    
+    .main_price:nth-child(4) .price::after {
+        width: 95%;
+    }
+}
